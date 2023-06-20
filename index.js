@@ -13,3 +13,5 @@ console.log(laCajaDePandora(10));  // Salida: "1010" (binario)
 console.log(laCajaDePandora(15));  // Salida: "f" (hexadecimal)
 
 //Hola soy David
+
+// PF
