@@ -10,4 +10,14 @@ console.log(laCajaDePandora(20));
 console.log(laCajaDePandora(15));  
 
 
+function paula () {
+  return {
+    nombre: "Paula",
+    edad: "23",
+    nacionalidad: "Colombiana"
+  };
+}
+
+
+
 
